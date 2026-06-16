@@ -18,6 +18,8 @@ flowchart TD
     D --> E[Email Notification]
 ```
 
+---
+
 ```mermaid
 flowchart LR
     A[Amazon EC2 Instance] -->|CPU Metrics| B[Amazon CloudWatch]
